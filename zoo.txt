@@ -1,3 +1,5 @@
  1/Rabbit 
 2/lion
 3/Donkey 
+4/ Snake
+5/Tiger 
